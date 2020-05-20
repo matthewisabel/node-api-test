@@ -1,0 +1,15 @@
+{
+    "name": "api-test",
+    "description": "API test",
+    "version": "0.0.1",
+    "private": true,
+    "license": "MIT",
+    "author": "Matthew Isabel",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "ejs": "^3.0.1",
+        "express": "^4.17.1"
+    }
+}
